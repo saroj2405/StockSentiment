@@ -19,9 +19,11 @@ The project performs the following tasks:
 ### Machine Learning models trained and evaluated
 
 The Following Machine Learning models trained and evaluated :
-Gaussian Naive Bayes (GaussianNB)
-Multinomial Naive Bayes (MultinomialNB)
-Bernoulli Naive Bayes (BernoulliNB)
+1.Gaussian Naive Bayes (GaussianNB)
+
+2.Multinomial Naive Bayes (MultinomialNB)
+
+3.Bernoulli Naive Bayes (BernoulliNB)
 
 
 
