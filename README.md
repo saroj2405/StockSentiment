@@ -9,6 +9,7 @@ For machine learning models and evaluation metrics.
 
 Key components:
 GaussianNB, MultinomialNB, BernoulliNB
+
 accuracy_score
 
 2.nltk (Natural Language Toolkit)
@@ -23,6 +24,7 @@ PorterStemmer
 3.numpy
 
 For numerical operations and handling arrays.
+
 4.pandas
 
 For data manipulation and handling datasets.
