@@ -27,6 +27,12 @@ The Following Machine Learning models trained and evaluated :
 
 3.Bernoulli Naive Bayes (BernoulliNB)
 
+### Best Performing Machine learning Model
+
+Bernoulli Naive Bayes (BernoulliNB) is found to be the best Performing Classifier with:
+Accuracy:0.6578947368421053
+
+
 
 
 
