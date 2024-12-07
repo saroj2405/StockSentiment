@@ -10,7 +10,7 @@ For machine learning models and evaluation metrics.
 Key components:
 GaussianNB, MultinomialNB, BernoulliNB
 
-accuracy_score
+For Calculating accuracy_score
 
 2.nltk (Natural Language Toolkit)
 
