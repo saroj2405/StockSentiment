@@ -17,9 +17,12 @@ accuracy_score
 For text preprocessing and natural language processing.
 
 Key components:
+
 stopwords
 
 PorterStemmer
+
+TextBlob
 
 3.numpy
 
@@ -32,8 +35,6 @@ For data manipulation and handling datasets.
 5.matplotlib 
 
 For data visualization (if used for plotting).
-
-6.TextBlob
 
 
 The project performs the following tasks:
