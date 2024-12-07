@@ -1,5 +1,6 @@
 #  Stock Movement Analysis Based on Social Media Sentiment
 The primary goal of this project is to analyze the correlation between social media sentiment and stock market movements. By leveraging Natural Language Processing (NLP) techniques, the project aims to extract sentiments from user-generated content (e.g., Telegram messages) and assess their impact on stock price trends. Ultimately, the project seeks to build a model that can forecast stock price movements based on aggregated sentiment data, helping in decision-making for investments or market analysis.
+
 The project performs the following tasks:
 
 1.Data Collection: Gathered social media messages (e.g., Telegram) and stock market data.
@@ -19,6 +20,7 @@ The project performs the following tasks:
 ### Machine Learning models trained and evaluated
 
 The Following Machine Learning models trained and evaluated :
+
 1.Gaussian Naive Bayes (GaussianNB)
 
 2.Multinomial Naive Bayes (MultinomialNB)
